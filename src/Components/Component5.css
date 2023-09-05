@@ -1,0 +1,38 @@
+.parent4{
+    height: 75vh;
+    max-width: 100vw;
+    background-color: black;
+    border-top:5px solid grey ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.parent4 .left3{
+    height: 100%;
+    width: 50%;
+    padding: 0px 40px;
+ 
+}
+
+
+.parent4 .right3{
+    height: 100%;
+    width: 50%;   
+    color: white;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    padding: 20px;
+    text-align: start;
+    flex-direction: column;
+}
+
+.right3 h3{
+    margin-top: -5px;
+}
+
+.left3 img{
+    height: 300px;
+    width: 400px;
+}
